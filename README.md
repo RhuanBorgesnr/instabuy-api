@@ -4,7 +4,7 @@ Updating product information from a CSV file
 
 # Usage
 
-To install, just:
+To install:
 
 ``` 
 pip install requests
