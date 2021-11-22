@@ -38,7 +38,7 @@ info = json.load(fileConsults)
 fileConsults.close()
 print(info) 
 print(" ")
-print("'----------------------Update Products----------------------'")
+print("'----------------------Products after Update----------------------'")
 print(" ")
  
 # looping and changing the product name
