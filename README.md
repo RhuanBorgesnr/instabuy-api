@@ -3,7 +3,7 @@
 
 ## Updating product information from a CSV file
 
-## Installation
+# Usage
 
 To install, just:
 
